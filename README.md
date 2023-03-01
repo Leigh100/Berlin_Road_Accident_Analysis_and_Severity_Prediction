@@ -29,7 +29,7 @@ Datenportal für Deutschland: https://www.govdata.de/
 High-level Planning of the project
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Day 1 (01.03)
-- Finalizing the exploratory data analysis of different data set
+- Finalizing the exploratory data analysis of different data sets
 - Making a conclusion about the final project topic
 - Project Plan creation 
 - Clean data for 2021
